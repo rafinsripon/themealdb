@@ -1,0 +1,26 @@
+
+.bg-random{
+    background-color: rgba(196, 154, 189, 0.719);
+}
+
+input#search_field {
+    border-radius: 20px 0 0px 20px;
+    padding: 10px;
+    outline: none;
+    border: 2px solid salmon;
+}
+
+button.btn.btn-outline-secondary {
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 17px;
+    border-radius: 0 20px 20px 0;
+    margin-left: -4px;
+    margin-bottom: 4px;
+    border: 2px solid salmon;
+}
+
+.button-js{
+    padding: 8px 30px;
+    margin-bottom: 10px;
+}
